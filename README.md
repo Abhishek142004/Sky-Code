@@ -27,13 +27,13 @@ Before you begin, ensure you have the following prerequisites installed:
 <a href="https://skycode-1.netlify.app/">Live Demo</a><br><br>
 **ScreenShots**
 
-<img height="370px" width="800px" src="https://github.com/Abhishek142004/Sky-Code/assets/156573359/3b468314-4670-45b9-be22-0b129f315343">
+<img height="300px" width="650px" src="https://github.com/Abhishek142004/Sky-Code/assets/156573359/3b468314-4670-45b9-be22-0b129f315343">
 <br><br><br><br>
-<img height="370px" width="800px" src="https://github.com/Abhishek142004/Sky-Code/assets/156573359/2409fecf-2418-4dbd-b733-85101f8d0ad8">
+<img height="300px" width="650px" src="https://github.com/Abhishek142004/Sky-Code/assets/156573359/2409fecf-2418-4dbd-b733-85101f8d0ad8">
 <br><br><br><br>
-<img height="370px" width="800px"  src="https://github.com/Abhishek142004/Sky-Code/assets/156573359/e91ab81f-debe-4e1f-aaf1-d3dbb58f4033">
+<img height="300px" width="650px"  src="https://github.com/Abhishek142004/Sky-Code/assets/156573359/e91ab81f-debe-4e1f-aaf1-d3dbb58f4033">
 <br><br><br><br>
-<img height="370px" width="800px"  src="https://github.com/Abhishek142004/Sky-Code/assets/156573359/ae2cdd7e-f87e-466f-9639-1c8696925380" >
+<img height="300px" width="650px"  src="https://github.com/Abhishek142004/Sky-Code/assets/156573359/ae2cdd7e-f87e-466f-9639-1c8696925380" >
 <br><br><br><br>
 
 
