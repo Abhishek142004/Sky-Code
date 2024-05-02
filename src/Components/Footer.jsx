@@ -145,7 +145,7 @@ const Footer = ({ svalue, mvalue, lvalue, check }) => {
             &nbsp;+9906339615
           </p>
           <p className="flex justify-start  mb-3 md:mb-6 text-sm md:text-base">
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +99086784065
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +9086784065
           </p>
           <p className="flex justify-start text-sm md:text-base">
             <svg

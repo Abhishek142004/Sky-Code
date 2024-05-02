@@ -67,7 +67,10 @@ const Contact_box = () => {
               className="text-xl bg-gray-200 border-2 border-gray-400 rounded-xl p-3 mb-3 w-[100%] outline-none"
               placeholder="Message"
             ></textarea>
-            <button className="border-2 border-gray-800 bg-teal-400 px-3 rounded text-xl text-white">
+            <button
+              type="submit"
+              className="border-2 border-gray-800 bg-teal-400 px-3 rounded text-xl text-white"
+            >
               Submit
             </button>
           </form>
